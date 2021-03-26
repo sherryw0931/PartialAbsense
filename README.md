@@ -1,0 +1,2 @@
+# PartialAbsense
+Partial Absense Project
